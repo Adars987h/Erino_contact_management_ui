@@ -55,7 +55,7 @@ const ContactForm = ({ onSave, selectedContact }) => {
             name="lastName"
             value={contact.lastName}
             onChange={handleChange}
-            required
+            
           />
         </Box>
         
@@ -63,7 +63,7 @@ const ContactForm = ({ onSave, selectedContact }) => {
           fullWidth
           label="Email"
           name="email"
-          // type="email"
+          type="email"
           value={contact.email}
           onChange={handleChange}
           required
