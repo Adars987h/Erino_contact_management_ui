@@ -18,7 +18,6 @@ Ensure you have the following installed:
 
 In the project directory, you can run:
 
-### `npm start`
 ``` 
 git clone https://github.com/Adars987h/Erino_contact_management_ui.git
 cd erino-Erino_contact_management_ui
